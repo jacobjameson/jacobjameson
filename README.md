@@ -1,3 +1,17 @@
+<style.
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
+</style>     
+
 <h1 style="font-weight:normal" align="center">
   &nbsp;Hi, I'm Jacob! :wave:&nbsp;
 </h1>

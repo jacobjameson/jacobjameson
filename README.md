@@ -1,17 +1,3 @@
-<style.
-/* The typing effect */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange }
-}
-</style>     
-
 <h1 style="font-weight:normal" align="center">
   &nbsp;Hi, I'm Jacob! :wave:&nbsp;
 </h1>
@@ -22,14 +8,6 @@
 <a href="jacobjameson.com"><img border="0" alt="Blog" src="https://assets.dryicons.com/uploads/icon/svg/4926/home.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:jacobjameson@g.harvard.edu"><img border="0" alt="Email" src="https://assets.dryicons.com/uploads/icon/svg/8009/02dc3a5c-6504-4347-85fb-3f510cfecc45.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/JacobCJameson"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp; 
-
-::: typewriter
-<h1 style="font-weight: bold; color:#8B0000;">
-
-Welcome to my page!
-
-</h1>
-:::
 
 <br>
 

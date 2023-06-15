@@ -16,3 +16,8 @@ I am a PhD student at Harvard University studying Health Policy and Decision Sci
 I study the quantitative techniques that are used for informing decision-making at the individual and population levels, including decision analysis, risk analysis, cost-benefit and cost-effectiveness analysis, disease and policy simulation modeling, and behavioral decision theory. My research aims to quantify trade offs of harms versus benefits to directly inform a decision being made under conditions of uncertainty.
 
 Prior to starting my PhD, I completed an M.S. in Computational Analysis and Public Policy at The University of Chicago. Before that, I was a middle school mathematics teacher in New Haven, CT. Aside from research I am very interested in K-12 computer science education.
+
+
+What am I listening to?
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22pabhxtridwheejz7rfec6fq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)

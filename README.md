@@ -15,9 +15,4 @@
 
 I use tools from operations research, engineering, computer science, and economics to inform decisions being made under conditions of uncertainty, with a focus on hospital operations.
 
-<center>
-![](https://github.com/jacobjameson/jacobjameson.github.io/images/Hospital.gif){width=60%}
-</center>
-
-
 Aside from research, I am passionate about teaching. I have [extensive experience teaching](teaching.qmd) students in a variety of settings, including as a teaching fellow at Harvard, instructor at UChicago Medicine, and as a Teach For America corps member in New Haven Public Schools.

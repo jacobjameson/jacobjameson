@@ -16,7 +16,7 @@
 I use tools from operations research, engineering, computer science, and economics to inform decisions being made under conditions of uncertainty, with a focus on hospital operations.
 
 <center>
-![](https://github.com/jacobjameson/jacobjameson.github.io/blob/main/images/Hospital.gif){width=60%}
+![](https://github.com/jacobjameson/jacobjameson.github.io/images/Hospital.gif){width=60%}
 </center>
 
 

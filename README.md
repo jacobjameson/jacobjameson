@@ -11,11 +11,17 @@
 
 <br>
 
-I am a PhD student at Harvard University studying Health Policy and Decision Sciences. I am currently advised by Dr. Soroush Saghafian and work in [The Public Impact Analytics Science Lab (PIAS-Lab)](https://scholar.harvard.edu/saghafian/public-impact-analytics-science-lab-pias-lab-harvard) at Harvard.
+ am a PhD student at Harvard University studying Health Policy and Decision Sciences. I am currently advised by Dr. Soroush Saghafian and work in [The Public Impact Analytics Science Lab (PIAS-Lab)](https://scholar.harvard.edu/saghafian/public-impact-analytics-science-lab-pias-lab-harvard) at Harvard. I also hold a research position in [Boston Children's Hospital](https://www.childrenshospital.org) General Pediatric Unit and I am an Educational Innovation Scholar at the Harvard [Center for Health Decision Science](https://chds.hsph.harvard.edu) and [Global Health Education and Learning Incubator](https://gheli.harvard.edu).
 
-I study the quantitative techniques that are used for informing decision-making at the individual and population levels, including decision analysis, risk analysis, cost-benefit and cost-effectiveness analysis, disease and policy simulation modeling, and behavioral decision theory. My research aims to quantify trade offs of harms versus benefits to directly inform a decision being made under conditions of uncertainty.
+I use tools from operations research, engineering, computer science, and economics to inform decisions being made under conditions of uncertainty, with a focus on hospital operations.
 
-Prior to starting my PhD, I completed an M.S. in Computational Analysis and Public Policy at The University of Chicago. Before that, I was a middle school mathematics teacher in New Haven, CT. Aside from research I am very interested in K-12 computer science education.
+<center>
+![](jacobjameson.github.io/images/Hospital.gif){width=60%}
+</center>
+
+
+Aside from research, I am passionate about teaching. I have [extensive experience teaching](teaching.qmd) students in a variety of settings, including as a teaching fellow at Harvard, instructor at UChicago Medicine, and as a Teach For America corps member in New Haven Public Schools.
+
 
 
 **What am I listening to?**

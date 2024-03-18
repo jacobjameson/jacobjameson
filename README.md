@@ -11,7 +11,7 @@
 
 <br>
 
- am a PhD student at Harvard University studying Health Policy and Decision Sciences. I am currently advised by Dr. Soroush Saghafian and work in [The Public Impact Analytics Science Lab (PIAS-Lab)](https://scholar.harvard.edu/saghafian/public-impact-analytics-science-lab-pias-lab-harvard) at Harvard. I also hold a research position in [Boston Children's Hospital](https://www.childrenshospital.org) General Pediatric Unit and I am an Educational Innovation Scholar at the Harvard [Center for Health Decision Science](https://chds.hsph.harvard.edu) and [Global Health Education and Learning Incubator](https://gheli.harvard.edu).
+I am a PhD student at Harvard University studying Health Policy and Decision Sciences. I am currently advised by Dr. Soroush Saghafian and work in [The Public Impact Analytics Science Lab (PIAS-Lab)](https://scholar.harvard.edu/saghafian/public-impact-analytics-science-lab-pias-lab-harvard) at Harvard. I also hold a research position in [Boston Children's Hospital](https://www.childrenshospital.org) General Pediatric Unit and I am an Educational Innovation Scholar at the Harvard [Center for Health Decision Science](https://chds.hsph.harvard.edu) and [Global Health Education and Learning Incubator](https://gheli.harvard.edu).
 
 I use tools from operations research, engineering, computer science, and economics to inform decisions being made under conditions of uncertainty, with a focus on hospital operations.
 

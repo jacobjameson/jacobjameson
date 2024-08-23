@@ -23,10 +23,3 @@ I use tools from operations research, engineering, computer science, and economi
 
 Aside from research, I am passionate about teaching. I have [extensive experience teaching](teaching.qmd) students in a variety of settings, including as a teaching fellow at Harvard, instructor at UChicago Medicine, and as a Teach For America corps member in New Haven Public Schools.
 
-
-
-
-
-## 📈 GitHub Stats
-
-![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobjameson&show_icons=true&theme=radical)

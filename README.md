@@ -17,7 +17,7 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
-I am a PhD student at Harvard University studying Health Policy and Decision Sciences. I am currently advised by Dr. Soroush Saghafian and work in [The Public Impact Analytics Science Lab (PIAS-Lab)](https://scholar.harvard.edu/saghafian/public-impact-analytics-science-lab-pias-lab-harvard) at Harvard. I also hold a research position in [Boston Children's Hospital](https://www.childrenshospital.org) General Pediatric Unit and I am an Educational Innovation Scholar at the Harvard [Center for Health Decision Science](https://chds.hsph.harvard.edu) and [Global Health Education and Learning Incubator](https://gheli.harvard.edu).
+I am a PhD student at Harvard University studying Health Policy and Decision Sciences. I am currently advised by Dr. Soroush Saghafian and work in [The Public Impact Analytics Science Lab (PIAS-Lab)](https://scholar.harvard.edu/saghafian/public-impact-analytics-science-lab-pias-lab-harvard) at Harvard. I am an Educational Innovation Scholar at the Harvard [Center for Health Decision Science](https://chds.hsph.harvard.edu) and [Global Health Education and Learning Incubator](https://gheli.harvard.edu). I am a National Insitute of Mental Health (NIMH) funded Predoctoral Research Fellow in [Comparative Effectiveness Research for Suicide Prevention](https://causalab.sph.harvard.edu/suicideprevention/) at [Brigham and Women's Hospital](https://www.brighamandwomens.org)
 
 I use tools from operations research, engineering, computer science, and economics to inform decisions being made under conditions of uncertainty, with a focus on hospital operations.
 

@@ -24,7 +24,7 @@ My research develops and applies methods in causal inference, Bayesian statistic
 Aside from research, I am passionate about teaching. I have extensive experience teaching students in a variety of settings, including as a teaching fellow at Harvard, instructor at UChicago Medicine, and as a Teach For America corps member in New Haven Public Schools.
 
 <iframe 
-  src="https://jacobjameson.github.io/birdhub_profile_JJ/embed.html" 
+  src="https://jacobjameson.github.io/birdhub_profile_jcj/embed.html" 
   width="100%" 
   height="200" 
   frameborder="0">
